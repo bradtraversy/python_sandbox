@@ -11,7 +11,7 @@
 
 
 
-# Membership Operators (not, not in) - Membership operators are used to test if a sequence is presented in an object
+# Membership Operators (in, not in) - Membership operators are used to test if a sequence is presented in an object
 
 
 
