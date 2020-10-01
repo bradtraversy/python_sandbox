@@ -1,4 +1,4 @@
-from setuptools import reduce #importing reduce module for using reduce function
+from setuptools import reduce #importing reduce module for using reduce function (Reduce module is default with python)
 
 l1 = [2,3,4,5,6]
 
