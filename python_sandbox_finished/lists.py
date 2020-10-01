@@ -10,6 +10,11 @@ fruits = ['Apples', 'Oranges', 'Grapes', 'Pears']
 # Get a value
 print(fruits[1])
 
+# Get the last value
+print(fruits[-1])
+
+
+
 # Get length
 print(len(fruits))
 
