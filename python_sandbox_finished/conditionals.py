@@ -65,3 +65,11 @@ if x is y:
 # is not
 if x is not y:
   print(x is not y)
+
+x = True
+
+if x == True:
+  print("The variable x is True")
+  
+else:
+  print("The variable x is false")
