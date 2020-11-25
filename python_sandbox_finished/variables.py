@@ -25,9 +25,9 @@ x, y, name, is_cool = (1, 2.5, 'John', True)
 # Basic math
 a = x + y
 
-# Casting
-x = str(x)
-y = int(y)
-z = float(y)
+# Casting: Changing a variable's type
+x = str(x)    # int to str
+y = int(y)    # float to int
+z = float(y)  # int to float
 
 print(type(z), z)
