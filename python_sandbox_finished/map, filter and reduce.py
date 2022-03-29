@@ -9,7 +9,7 @@ mapping_the_l1 = list(map(lambda x: x*2, l1)) # MAP FUNCTION APPLIES THE GIVEN C
 print(mapping_the_l1)
 
 
-filtering_the_l1 = list(filter(lambda x: x%2 ==0)) #FILTER FUNCTION FILTERS THE LIST ACCORDING TO OUR WISH
+filtering_the_l1 = list(filter(lambda x: x%2 ==0,l1)) #FILTER FUNCTION FILTERS THE LIST ACCORDING TO OUR WISH
 # IN THIS CASE WE ARE FILERING THE NUMBER WHICH IS DIVISIBLE BY 2 IN l1.
 
 print(filtering_the_l1)
